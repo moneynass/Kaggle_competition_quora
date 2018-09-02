@@ -1,4 +1,4 @@
-# Starter template for Kaggle projects
+# Starter template for Data Sciences projects in Python
 
 ## Installation
 
@@ -28,9 +28,10 @@ git remote rm boilerplate
 * **cache**: cache your features and datasets here
 * **input**: place the raw data files here
 * **logs**: logging files
+* **notebooks**: Jupyter Notebooks
 * **output**: your models predictions
 * **plots**: for diagnostics plots
-* **submissions**: submission files for Kaggle
+* **submissions**: submission files (for a client, a competition...)
 * **tests**: your tests go here
 
 ## License
