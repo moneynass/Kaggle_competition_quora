@@ -2,10 +2,10 @@
 
 ## Installation
 
-Clone the repository with the name of your project
+Clone the repository with the name of your project (replace `{Project_name}`)
 ```
-git clone -o boilerplate -b master --single-branch git@github.com:florentpietot/kaggle-starter-kit.git Project
-cd Project
+git clone -o boilerplate -b master --single-branch git@github.com:florentpietot/data-sciences-starter-kit.git {Project_name}
+cd {Project_name}
 ```
 Setup new origin (change username and project name)
 ```
